@@ -1,3 +1,4 @@
 Este archivo fué creado desde GitHub.
  Archivo modificado desde Git
  Modificamos esto desde la rama1
+Modificaciones desde la rama2
